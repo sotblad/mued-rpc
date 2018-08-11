@@ -1,6 +1,6 @@
 {
-  "name": "digibyted-rpc",
-  "description": "DigiByte Client Library to connect to DigiByte Core via RPC",
+  "name": "mued-rpc",
+  "description": "MonetaryUnit Client Library to connect to MonetaryUnit Core via RPC",
   "version": "0.7.0",
   "author": {
     "name": "Stephen Pair",
@@ -30,7 +30,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/digicontributer/digibyted-rpc"
+    "url": "https://github.com/sotblad/mued-rpc"
   },
   "license": "MIT",
   "main": "lib/index.js",
@@ -47,7 +47,7 @@
     "sinon": "^1.12.2"
   },
   "bugs": {
-    "url": "https://github.com/digicontributer/digibyted-rpc/issues"
+    "url": "https://github.com/sotblad/mued-rpc/issues"
   },
-  "homepage": "https://github.com/bitpay/digibyted-rpc"
+  "homepage": "https://github.com/sotblad/mued-rpc"
 }
